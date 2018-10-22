@@ -1,0 +1,23 @@
+{
+  "name": "stats_nba_framework",
+  "version": "1.0.0",
+  "description": "This is  9Stars Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "protactor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MJ812"
+  },
+  "keywords": [
+    "9Stars"
+  ],
+  "author": "9Stars",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "^5.4.1",
+    "protractor-beautiful-reporter": "^1.2.5"
+  }
+}
